@@ -5,4 +5,12 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
 
     <string name="title_activity_main">MainActivity</string>
+    <string name="usuario">Usuario</string>
+    <string name="pass">pass</string>
+    <string name="el_curso_de_android">El curso de Android</string>
+    <string name="androidizate">androidizate</string>
+    <string name="by_ies">by IES</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="imagen_de_android">Imagen de android</string>
+    <string name="password">Password</string>
 </resources>
